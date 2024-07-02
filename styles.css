@@ -1,1 +1,24 @@
 /*  your css code here. If applicable */
+.middle{
+	border: 1px solid black;
+	padding: 1px;
+	margin: 10px;
+	line-spacing: 1px;
+	border-collapse: collapse;
+
+}
+.Middle{
+	text-align: center;
+}
+.rightmost {
+	text-align: right;
+}
+
+.table-3{
+	border-collapse: collapse;
+}
+#t-image{
+	display: flex;
+	justify-content: center;
+
+
